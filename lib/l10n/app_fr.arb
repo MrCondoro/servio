@@ -1,0 +1,14 @@
+{
+  "@@locale": "fr",
+  "appName": "Restaurant POS",
+  "dashboard": "Tableau de bord",
+  "menu": "Menu",
+  "tables": "Tables",
+  "orders": "Commandes",
+  "kitchen": "Cuisine",
+  "cashier": "Caisse",
+  "settings": "Paramètres",
+  "login": "Connexion",
+  "email": "E-mail",
+  "password": "Mot de passe"
+}

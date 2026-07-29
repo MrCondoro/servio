@@ -1,0 +1,14 @@
+{
+  "@@locale": "en",
+  "appName": "Restaurant POS",
+  "dashboard": "Dashboard",
+  "menu": "Menu",
+  "tables": "Tables",
+  "orders": "Orders",
+  "kitchen": "Kitchen",
+  "cashier": "Cashier",
+  "settings": "Settings",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password"
+}
