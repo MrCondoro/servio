@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145467382685",
+    "project_id": "servio-edd31",
+    "storage_bucket": "servio-edd31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145467382685:android:ed62455d590fdefeedad74",
+        "android_client_info": {
+          "package_name": "com.example.servio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB6O0Xckcp3mlcEzlLaLmtl4iFE7DFiSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
